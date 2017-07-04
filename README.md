@@ -3,7 +3,12 @@
 #数据库类图
 ![](https://github.com/Edwiin123/SRSsystem/blob/master/SRS/image/%E7%B1%BB%E5%9B%BE.jpg)
 #顺序图
+选课功能顺序图：
+![](https://github.com/Edwiin123/SRSsystem/blob/master/SRS/image/%E9%80%89%E8%AF%BE%E9%A1%BA%E5%BA%8F%E5%9B%BE.png)
+查询成绩顺序图：
+![](https://github.com/Edwiin123/SRSsystem/blob/master/SRS/image/%E6%9F%A5%E7%9C%8B%E6%88%90%E7%BB%A9%E5%8D%95%E9%A1%BA%E5%BA%8F%E5%9B%BE.png)
 
+![](https://github.com/Edwiin123/SRSsystem/blob/master/SRS/image/%E7%B1%BB%E5%9B%BE.jpg)
 #登录
 ![](https://github.com/Edwiin123/SRSsystem/blob/master/SRS/image/1%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2.jpg)
 #学习计划
@@ -23,8 +28,13 @@
 #数据库结构
 ![](https://github.com/Edwiin123/SRSsystem/blob/master/SRS/image/%E7%B1%BB%E5%9B%BE.jpg)
 #学习计划功能核心代码
-![](https://github.com/Edwiin123/SRSsystem/blob/master/SRS/image/1%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2.jpg)
+![](https://github.com/Edwiin123/SRSsystem/blob/master/SRS/image/%E4%BB%A3%E7%A0%81/%E5%AD%A6%E4%B9%A0%E8%AE%A1%E5%88%92%E5%8A%9F%E8%83%BD1.jpg)
+![](https://github.com/Edwiin123/SRSsystem/blob/master/SRS/image/%E4%BB%A3%E7%A0%81/%E5%AD%A6%E4%B9%A0%E8%AE%A1%E5%88%92%E5%8A%9F%E8%83%BD2.jpg)
 #选课功能
-![](https://github.com/Edwiin123/SRSsystem/blob/master/SRS/image/1%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2.jpg)
+![](https://github.com/Edwiin123/SRSsystem/blob/master/SRS/image/%E4%BB%A3%E7%A0%81/%E9%80%89%E8%AF%BE%E5%8A%9F%E8%83%BD1.jpg)
+![](https://github.com/Edwiin123/SRSsystem/blob/master/SRS/image/%E4%BB%A3%E7%A0%81/%E9%80%89%E8%AF%BE%E5%8A%9F%E8%83%BD2.jpg)
+![](https://github.com/Edwiin123/SRSsystem/blob/master/SRS/image/%E4%BB%A3%E7%A0%81/%E9%80%89%E8%AF%BE%E5%8A%9F%E8%83%BD3.jpg)
 #选课情况查询功能
-![](https://github.com/Edwiin123/SRSsystem/blob/master/SRS/image/1%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2.jpg)
+![](https://github.com/Edwiin123/SRSsystem/blob/master/SRS/image/%E4%BB%A3%E7%A0%81/%E8%AF%BE%E7%A8%8B%E9%80%89%E8%AF%BE%E6%83%85%E5%86%B51.jpg)
+![](https://github.com/Edwiin123/SRSsystem/blob/master/SRS/image/%E4%BB%A3%E7%A0%81/%E8%AF%BE%E7%A8%8B%E9%80%89%E8%AF%BE%E6%83%85%E5%86%B52.jpg)
+
