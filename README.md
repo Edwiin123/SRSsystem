@@ -7,8 +7,6 @@
 ![](https://github.com/Edwiin123/SRSsystem/blob/master/SRS/image/%E9%80%89%E8%AF%BE%E9%A1%BA%E5%BA%8F%E5%9B%BE.png)
 查询成绩顺序图：
 ![](https://github.com/Edwiin123/SRSsystem/blob/master/SRS/image/%E6%9F%A5%E7%9C%8B%E6%88%90%E7%BB%A9%E5%8D%95%E9%A1%BA%E5%BA%8F%E5%9B%BE.png)
-
-![](https://github.com/Edwiin123/SRSsystem/blob/master/SRS/image/%E7%B1%BB%E5%9B%BE.jpg)
 #登录
 ![](https://github.com/Edwiin123/SRSsystem/blob/master/SRS/image/1%E7%99%BB%E5%BD%95%E7%95%8C%E9%9D%A2.jpg)
 #学习计划
