@@ -1,7 +1,7 @@
 # SRSsystem
 课程设计
 #数据库类图
-![](https://github.com/Edwiin123/SRSsystem/blob/master/SRS/image/%E7%B1%BB%E5%9B%BE.jpg)
+![](https://github.com/Edwiin123/SRSsystem/blob/master/SRS/image/%E7%B3%BB%E7%BB%9F%E7%B1%BB%E5%9B%BE.png)
 #顺序图
 选课功能顺序图：
 ![](https://github.com/Edwiin123/SRSsystem/blob/master/SRS/image/%E9%80%89%E8%AF%BE%E9%A1%BA%E5%BA%8F%E5%9B%BE.png)
